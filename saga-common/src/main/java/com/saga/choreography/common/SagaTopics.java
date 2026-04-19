@@ -2,9 +2,6 @@ package com.saga.choreography.common;
 
 import lombok.experimental.UtilityClass;
 
-/**
- * Topic names for choreography message flow.
- */
 @UtilityClass
 public class SagaTopics {
 
